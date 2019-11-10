@@ -12,7 +12,7 @@ const pool = new Pool({
   user: 'postgres',
   host: 'localhost',
   database: 'apexapi',
-  password: 'tupassword',
+  password: 'K!ke1.500$',
   port: 5432,
 })
 

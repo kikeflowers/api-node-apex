@@ -1,14 +1,15 @@
 # api-node-apex
 Api del video de apex
-
-Clona el proyecto
+<br>
+Clona el proyecto<br>
 git clone https://github.com/kikeflowers/api-node-apex
-
-Entra a la carpeta
+<br>
+Entra a la carpeta<br>
 cd api-node-apex
-
-Descarga las dependencias
+<br>
+Descarga las dependencias<br>
 npm install
-
+<br>
 Sube el proyecto
 npm start 
+<br>
